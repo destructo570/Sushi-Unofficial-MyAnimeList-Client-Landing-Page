@@ -2,7 +2,7 @@
 
 ## Sushi is an unofficial myanimelist client for android. Enjoy your favourite anime website on your android devices.
 
-#### Features
+### Features
 - Clean, simple and easy to user user inteface.
 - Explore myanimelist search your favorite manga/anime
 - Track yout anime/manga progress
