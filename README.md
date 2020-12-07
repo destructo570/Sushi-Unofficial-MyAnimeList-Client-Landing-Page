@@ -1,5 +1,5 @@
-# Sushi-Unofficial-MyAnimeList-Client-Landing-Page
-#**Welcome to Sushi!**
+# Sushi- Unofficial MyAnimeList Client
+# **Say hi to Sushi!**
 
 ## Sushi is an unofficial myanimelist client for android. Enjoy your favourite anime website on your android devices.
 
