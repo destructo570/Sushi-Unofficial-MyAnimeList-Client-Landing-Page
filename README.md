@@ -38,22 +38,21 @@
 
 ## **Links**
 
-[b][url=https://play.google.com/store/apps/details?id=com.destructo.sushi_mal]Click to download form google play[/url][/b]
-[<img src="https://imgur.com/5MGGeSx.png">](http://google.com.au/)
+[<img src="https://imgur.com/5MGGeSx.png" width=20%>](https://play.google.com/store/apps/details?id=com.destructo.sushi_mal)
 
 
 
 ## **Sushi Discord**
-Join the discord channel for reporting bugs, feature requests/suggestions, latest updates/news etc.[/b]
-[url=https://discord.gg/EkrQu98nKM]Click to join the discord server
+####Join the discord channel for reporting bugs, feature requests/suggestions, latest updates/news etc.[/b]
+[<img src="https://imgur.com/xbPIpVb.png" width=20%>](https://discord.gg/EkrQu98nKM)
  
 ## **Credits**
 
--Myanimelist for their api
--Jikan for their api
--Thanks to @ZeroCrystal and @Xinil for
+- Myanimelist for their api
+- Jikan for their api
+- Thanks to @ZeroCrystal and @Xinil for
  helping me with api related queries
--@axiel7 for helping me with the app
+- @axiel7 for helping me with the app
 
 
 ### **F.A.Q**
