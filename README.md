@@ -1,6 +1,6 @@
 # Sushi- Unofficial MyAnimeList Client
 
-## Sushi is an unofficial myanimelist client for android. Enjoy your favourite anime website on your android devices.
+### Sushi is an unofficial myanimelist client for android. Enjoy your favourite anime website on your android devices.
 
 ### Features
 - Clean, simple and easy to user user inteface.
@@ -16,13 +16,13 @@
 
 
 
-## **Upcoming features**
+### **Upcoming features**
 - New themes
 - Read reviews in app
 - Staff/Person info/details view
 
 
-## **Screenshots**
+### **Screenshots**
 [img]https://imgur.com/XxQNDjZ.jpg[/img] [img]https://imgur.com/RAAWsma.jpg[/img] [img]https://imgur.com/SJBq4Y7.jpg[/img]
 
 *More App Screenshots*
@@ -39,6 +39,7 @@
 ## **Links**
 
 [b][url=https://play.google.com/store/apps/details?id=com.destructo.sushi_mal]Click to download form google play[/url][/b]
+[<img src="https://imgur.com/5MGGeSx.png">](http://google.com.au/)
 
 
 
@@ -55,7 +56,7 @@ Join the discord channel for reporting bugs, feature requests/suggestions, lates
 -@axiel7 for helping me with the app
 
 
-## **F.A.Q**
+### **F.A.Q**
 
 **I encountered an error/issue/bug in app what shoul I do?**
     Post it on the discord server, I or someone else will help you about your issue you can also stay updated, to know if that issue was solved already or not.
