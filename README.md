@@ -24,18 +24,18 @@
 
 
 ### **Screenshots**
-[<img src="https://imgur.com/XxQNDjZ.jpg" width=40%>]
-[<img src="https://imgur.com/RAAWsma.jpg" width=40%>]
-[<img src="https://imgur.com/SJBq4Y7.jpg" width=40%>]
-[<img src="https://imgur.com/RDTbihJ.jpg" width=40%>]
+<img src="https://imgur.com/XxQNDjZ.jpg" width=40%>
+<img src="https://imgur.com/RAAWsma.jpg" width=40%>
+<img src="https://imgur.com/SJBq4Y7.jpg" width=40%>
+<img src="https://imgur.com/PkJtmg0.jpg" width=40%>
 
 ### **More App Screenshots**
 <details>
   <summary>Click to expand</summary>
-[<img src="https://imgur.com/PkJtmg0.jpg" width=40%>]
-[<img src="https://imgur.com/rUAYwJq.jpg" width=40%>]
-[<img src="https://imgur.com/eUPAMYK.jpg" width=40%>]
-[<img src="https://imgur.com/9ieGwWv.jpg" width=40%>]
+<img src="https://imgur.com/RDTbihJ.jpg" width=100%>
+<img src="https://imgur.com/rUAYwJq.jpg" width=40%>
+<img src="https://imgur.com/eUPAMYK.jpg" width=40%>
+<img src="https://imgur.com/9ieGwWv.jpg" width=40%>
   
  </details>
 
