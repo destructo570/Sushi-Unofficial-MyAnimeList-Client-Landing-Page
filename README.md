@@ -1,5 +1,7 @@
 # Sushi- Unofficial MyAnimeList Client
 
+![alt text](https://imgur.com/kpgYGzJ.jpg)
+
 ### Sushi is an unofficial myanimelist client for android. Enjoy your favourite anime website on your android devices.
 
 ### Features
@@ -15,7 +17,6 @@
 - Dark and Amoled themes
 
 
-
 ### **Upcoming features**
 - New themes
 - Read reviews in app
@@ -23,28 +24,24 @@
 
 
 ### **Screenshots**
-[img]https://imgur.com/XxQNDjZ.jpg[/img] [img]https://imgur.com/RAAWsma.jpg[/img] [img]https://imgur.com/SJBq4Y7.jpg[/img]
+--- | ---
+![alt text](https://imgur.com/XxQNDjZ.jpg) | ![alt text](https://imgur.com/RAAWsma.jpg) | ![alt text](https://imgur.com/SJBq4Y7.jpg) |
 
-*More App Screenshots*
-[spoiler]
-[img]https://imgur.com/PkJtmg0.jpg[/img]
-[img]https://imgur.com/rUAYwJq.jpg[/img]
-[img]https://imgur.com/eUPAMYK.jpg[/img]
-[img]https://imgur.com/9ieGwWv.jpg[/img]
-[img]https://imgur.com/RDTbihJ.jpg[/img]
-[/spoiler]
+### **More App Screenshots**
+<details>
+  <summary>Click to expand</summary>
+ 
+ ![alt text](https://imgur.com/PkJtmg0.jpg) ![alt text](https://imgur.com/rUAYwJq.jpg) ![alt text](https://imgur.com/eUPAMYK.jpg)
+![alt text](https://imgur.com/9ieGwWv.jpg) ![alt text](https://imgur.com/RDTbihJ.jpg)
+ </details>
 
-
-
-## **Links**
+## **Download Links**
 
 [<img src="https://imgur.com/5MGGeSx.png" width=20%>](https://play.google.com/store/apps/details?id=com.destructo.sushi_mal)
 
-
-
 ## **Sushi Discord**
-####Join the discord channel for reporting bugs, feature requests/suggestions, latest updates/news etc.[/b]
-[<img src="https://imgur.com/xbPIpVb.png" width=20%>](https://discord.gg/EkrQu98nKM)
+#### Join the discord channel for reporting bugs, feature requests/suggestions, latest updates/news etc.
+[<img src="https://imgur.com/P4mM54a.png" width=20%>](https://discord.gg/EkrQu98nKM)
  
 ## **Credits**
 
@@ -57,11 +54,11 @@
 
 ### **F.A.Q**
 
-**I encountered an error/issue/bug in app what shoul I do?**
-    Post it on the discord server, I or someone else will help you about your issue you can also stay updated, to know if that issue was solved already or not.
+**I encountered an error/issue/bug in app what shoul I do?**\
+Post it on the discord server, I or someone else will help you about your issue you can also stay updated, to know if that issue was solved already or not.
 
-**How to contact me?**
-    You can mention me on the discord server I will try to answer your queries as best as I can.
+**How to contact me?**\
+You can mention me on the discord server I will try to answer your queries as best as I can.
 
 
 
