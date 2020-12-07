@@ -24,10 +24,10 @@
 
 
 ### **Screenshots**
-<img src="https://imgur.com/XxQNDjZ.jpg" width=40%>
-<img src="https://imgur.com/RAAWsma.jpg" width=40%>
-<img src="https://imgur.com/SJBq4Y7.jpg" width=40%>
-<img src="https://imgur.com/PkJtmg0.jpg" width=40%>
+<img src="https://imgur.com/XxQNDjZ.jpg" width=35%>
+<img src="https://imgur.com/RAAWsma.jpg" width=35%>
+<img src="https://imgur.com/SJBq4Y7.jpg" width=35%>
+<img src="https://imgur.com/PkJtmg0.jpg" width=35%>
 
 ### **More App Screenshots**
 <details>
@@ -58,7 +58,7 @@
 
 ### **F.A.Q**
 
-**I encountered an error/issue/bug in app what shoul I do?**\
+**I encountered an error/issue/bug in app what should I do?**\
 Post it on the discord server, I or someone else will help you about your issue you can also stay updated, to know if that issue was solved already or not.
 
 **How to contact me?**\
