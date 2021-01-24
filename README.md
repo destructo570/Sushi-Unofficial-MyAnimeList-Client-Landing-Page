@@ -66,7 +66,7 @@ You can mention me on the discord server I will try to answer your queries as be
 
 ### Help translate the app
 
-bit.ly/translate-sushi
+https://bit.ly/translate-sushi
 
 
 
