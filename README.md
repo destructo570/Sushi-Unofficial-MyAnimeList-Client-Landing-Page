@@ -65,7 +65,8 @@ Post it on the discord server, I or someone else will help you about your issue 
 You can mention me on the discord server I will try to answer your queries as best as I can.
 
 ### Help translate the app
-https://crowdin.com/project/sushi-unofficial-myanimelist-a/invite?d=n655h475a5v6m4e4r403r4t283d3g453d333s413a373237363f4l4r4u2j43383i4534333h4o4j4h4l453s2b3b3f4k4n4i463q4t263e3g433f333n45353d3930343f4o4k4u2l4c333k4537393h4r4i4h4o453s2f373v6m4l4t473l473
+
+bit.ly/translate-sushi
 
 
 
