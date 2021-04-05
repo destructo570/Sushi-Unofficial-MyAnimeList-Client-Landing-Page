@@ -21,9 +21,9 @@
 - See your friendlist and their anime/manga lists (Only public lists)
 
 ### **Screenshots**
-<img src="https://imgur.com/ycFCCW2.jpg" width=35%> <img src="https://imgur.com/lIIXfWn.jpg" width=35%> <img src="https://imgur.com/f6nZMnV.jpg" width=35%>
-<img src="https://imgur.com/a9v3woO.jpg" width=35%> <img src="https://imgur.com/lT70Ok1.jpg" width=35%> <img src="https://imgur.com/KFjWFdT.jpg" width=35%>
-<img src="https://imgur.com/opZyzRo.jpg" width=35%>
+<img src="https://imgur.com/ycFCCW2.jpg" width=30%> <img src="https://imgur.com/hFVlxaN.jpg" width=30%> <img src="https://imgur.com/lIIXfWn.jpg" width=30%>
+<img src="https://imgur.com/f6nZMnV.jpg" width=30%> <img src="https://imgur.com/fHgUkxv.jpg" width=30%> <img src="https://imgur.com/a9v3woO.jpg" width=30%> 
+<img src="https://imgur.com/lT70Ok1.jpg" width=30%> <img src="https://imgur.com/KFjWFdT.jpg" width=30%> <img src="https://imgur.com/opZyzRo.jpg" width=30%>
 
 ## **Download Links**
 
